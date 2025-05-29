@@ -16,7 +16,7 @@ A modern, responsive website for a Silambam coaching center built with Next.js a
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Jayanesh2494/Imayavarman-coaching-center.git
 cd silambam-coaching
 ```
 
